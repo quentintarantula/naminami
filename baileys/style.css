@@ -1,5 +1,5 @@
 body {
-  background-color: grey;
+  background-color: black;
   float: right;
 }
 
@@ -9,8 +9,8 @@ body {
   margin: 10%;
   margin-top: 10px;
   border-style: solid;
-  border-color: saddlebrown;
-  background-color: black;
+  border-color: darkred;
+  background-color: white;
   border-radius: 5%;
   border-width: 5%;
   padding-top: 5%;
@@ -18,22 +18,24 @@ body {
   padding-bottom: 5%;
   padding-left: 5%;
   border-width: 30px;
-color: aliceblue
+color: black;
   }
 .zanr {
   text-transform: uppercase;
   text-align: center;
-  margin: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   font-size: 220%;
-    border-style: solid;
-  border-color: red;
+  margin-right: 30%;
+  margin-left: 30%;
+  
   background-color: darkred;
 color: whitesmoke;
 
 }
     
 a  {
-    color: aliceblue;
+    color: white;
     text-decoration: underline;
       }      
       
@@ -41,10 +43,18 @@ h1 {
   font-style: normal;
   line-height: 90%;
   text-decoration: none;
-  font-size: 160%;
+  font-size: 400%;
 text-align: center;
-}
+  color: white;
+  background-color: black;
+  padding-bottom: 10px;
+  padding-top: 10px;
 
+}
+.name {
+  color: #ff9900;
+  font-style: oblique;
+}
 .svec {
   font-size: 100%;
   text-align: justify;
@@ -57,10 +67,29 @@ text-align: center;
 
 .autor {
   text-align: justify;
+  background-color: darkred;
+  color: white;
+  margin-right: 50%;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+  font-size: 150%;
+  
 }
 
 .zdroj {
   text-align: justify;
+  background-color: darkred;
+  color: white;
+  margin-right: 50%;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+  font-size: 150%;
+}
+
 }
 
 #pytel {
